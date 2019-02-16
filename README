@@ -1,0 +1,6 @@
+Instruktioner:
+1. Ändra inställningarna i main.tex
+2. Lägg in dina låtar i ordning med \inputsong{}
+3. Lägg in \newpage om en rubrik fastnar på föregående sida
+4. Kompilera!
+5. Skriv ut (dubbelsidigt längsmed långsidan)!
